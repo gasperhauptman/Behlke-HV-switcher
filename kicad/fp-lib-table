@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name behlkeswitcher)(type KiCad)(uri "$(KIPRJMOD)/behlkeswitcher.pretty")(options "")(descr ""))
+)
